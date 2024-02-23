@@ -8,7 +8,7 @@
 
 x = 10  # storing the reference of 10
 
-y = x   # y is also storing the reference of 10 by via x
+y = x   # y is also storing the reference of 10 via x
 
 
 print(f'x is {x} and y is {y}')     # output: 10 10 
